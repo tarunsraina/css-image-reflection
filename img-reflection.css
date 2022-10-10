@@ -1,0 +1,12 @@
+img {
+    width: 10%;
+    height: 10%;
+    -webkit-box-reflect: below;
+  }
+
+.above img{
+    width: 10%;
+    height: 10%;
+    -webkit-box-reflect:above;
+}
+
